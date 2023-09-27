@@ -1,0 +1,33 @@
+<svg height="809" width="1600" xmlns="http://www.w3.org/2000/svg">
+ <!-- Created with Image Occlusion Enhanced -->
+ <g>
+  <title>Labels</title>
+ </g>
+ <g>
+  <title>Masks</title>
+  <rect fill="#FFEBA2" height="26.31579" id="f0e572b890ea4c17a64861cdc0d32835-ao-1" stroke="#2D2D2D" width="14.73684" x="1309.47369" y="96.26317"/>
+  <g id="f0e572b890ea4c17a64861cdc0d32835-ao-2">
+   <rect fill="#FFEBA2" height="30.52632" stroke="#2D2D2D" width="10.52632" x="1297.89474" y="261.52633"/>
+   <rect fill="#FFEBA2" height="28.42105" stroke="#2D2D2D" width="16.84211" x="1166.3158" y="336.26318"/>
+  </g>
+  <g id="f0e572b890ea4c17a64861cdc0d32835-ao-3">
+   <rect fill="#FFEBA2" height="24.21053" stroke="#2D2D2D" width="16.84211" x="1292.63159" y="387.84212"/>
+   <rect fill="#FFEBA2" height="33.68421" stroke="#2D2D2D" width="122.10527" x="1467.36843" y="383.6316"/>
+  </g>
+  <g id="f0e572b890ea4c17a64861cdc0d32835-ao-4">
+   <rect fill="#FFEBA2" height="27.36842" stroke="#2D2D2D" width="14.73684" x="1252.63159" y="515.21055"/>
+   <rect fill="#FFEBA2" height="35.78947" stroke="#2D2D2D" width="60" x="1272.63159" y="551.00002"/>
+   <rect fill="#FFEBA2" height="34.73684" stroke="#2D2D2D" width="58.94737" x="1526.3158" y="551.00002"/>
+  </g>
+  <g class="qshape" id="f0e572b890ea4c17a64861cdc0d32835-ao-5">
+   <rect class="qshape" fill="#FF7E7E" height="27.36842" stroke="#2D2D2D" width="9.47368" x="1295.78948" y="641.52634"/>
+   <rect class="qshape" fill="#FF7E7E" height="28.42105" stroke="#2D2D2D" width="60" x="1056.84211" y="676.26318"/>
+   <rect class="qshape" fill="#FF7E7E" height="33.68421" stroke="#2D2D2D" width="62.10526" x="1193.68422" y="676.26318"/>
+  </g>
+  <g id="f0e572b890ea4c17a64861cdc0d32835-ao-6">
+   <rect fill="#FFEBA2" height="27.36842" stroke="#2D2D2D" width="18.94737" x="1283.1579" y="727.84213"/>
+   <rect fill="#FFEBA2" height="34.73684" stroke="#2D2D2D" width="135.78948" x="1365.26317" y="758.36845"/>
+   <rect fill="#FFEBA2" height="28.42105" stroke="#2D2D2D" width="67.36842" x="1214.73685" y="761.52634"/>
+  </g>
+ </g>
+</svg>
